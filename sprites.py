@@ -4,7 +4,7 @@ import pygame as pg
 import random
 from pygame.sprite import Sprite
 from settings import *
-
+jm,
 class Player(Sprite):
     def __init__(self):
         Sprite.__init__(self)
