@@ -4,7 +4,7 @@ import pygame as pg
 import random
 from settings import *
 from sprites import *
-#testes
+#test
 class Game:
     def __init__(self):
         #init game window
